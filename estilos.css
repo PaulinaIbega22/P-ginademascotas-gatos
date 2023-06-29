@@ -1,0 +1,30 @@
+body{
+    background-color: #95D9FF;
+    color:black;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h3{
+    color:#272b5b;
+    font-family: 'Indie Flower', cursive;
+    font-size: 23px;
+}
+
+h1, p{
+    color:#57263f;
+    font-family: 'Raleway', sans-serif;
+}
+
+img{
+    width: 350px;
+    height: 200px;
+    border-style:dotted;
+    border-color:#272b5b;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+a,small{
+    color: #2d3459;
+}
